@@ -1,0 +1,7 @@
+#ignore the followinng
+*.csv
+*.txt
+
+
+#ignore folder
+.ipynb_checkpointss
